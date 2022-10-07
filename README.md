@@ -1,7 +1,7 @@
 
 # Hong Kong October Housing Dynamic Dashboard
 
-To view the Tableau dashboard, please follow this link.
+To view the Tableau dashboard, please follow this [link] (https://public.tableau.com/app/profile/jacky1833/viz/HongKongHousingV5/Dashboard1).
 The information below will detail the project's goal, creation of dataset,
 tool used, and a comprehensive user guide for the dashboard.
 
