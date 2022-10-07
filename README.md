@@ -1,10 +1,11 @@
 
 # Hong Kong October Housing Dynamic Dashboard
 
-To view the Tableau dashboard, please follow this [link] (https://public.tableau.com/app/profile/jacky1833/viz/HongKongHousingV5/Dashboard1).
+To view the Tableau dashboard, please follow this [link](https://public.tableau.com/app/profile/jacky1833/viz/HongKongHousingV5/Dashboard1).
 The information below will detail the project's goal, creation of dataset,
 tool used, and a comprehensive user guide for the dashboard.
 
+[![name](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/DashboardDemo1.gif)](https://public.tableau.com/app/profile/jacky1833/viz/Covid19DynamicDashboard/Dashboard)
 
 ## Project Motivation and Goals
 Hong Kong housing prices are among the highest in the world. Having lived in Hong Kong
