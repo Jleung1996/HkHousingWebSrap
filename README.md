@@ -36,7 +36,7 @@ There are three parts in creating the housing dataset.
 | Scikit-learn            | Feature Selections       | https://scikit-learn.org/stable/                                           |
 
 ## User Guide
-The dashobard is divided into 6 different sections
+The dashboard is divided into 6 different sections
 
 1. Map
  * The street view map serves two functions: the dynamic filtering for the other graphs and the relative price per squarefoot for each house listings. CLicking into the map will filter the district you want, and various other charts will be automatically filter as well. To return back to whole of Hong Kong view, reselect the country that was fitlered. Housing with darker blue means higher price per squarefoot.
