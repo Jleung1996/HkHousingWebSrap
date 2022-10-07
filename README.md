@@ -5,7 +5,7 @@ To view the Tableau dashboard, please follow this [link](https://public.tableau.
 The information below will detail the project's goal, creation of dataset,
 tool used, and a comprehensive user guide for the dashboard.
 
-[![name](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/DashboardDemo1.gif)](https://public.tableau.com/app/profile/jacky1833/viz/Covid19DynamicDashboard/Dashboard)
+[![name](https://github.com/Jleung1996/HongKongHousingWebSrap-Visualization/blob/main/visuals/DashboardDemo.gif)](https://public.tableau.com/app/profile/jacky1833/viz/HongKongHousingV5/Dashboard1)
 
 ## Project Motivation and Goals
 Hong Kong housing prices are among the highest in the world. Having lived in Hong Kong
@@ -38,6 +38,8 @@ There are three parts in creating the housing dataset.
 
 ## User Guide
 The dashboard is divided into 6 different sections.
+
+![name](https://github.com/Jleung1996/HongKongHousingWebSrap-Visualization/blob/main/visuals/Capture2.PNG)
 
 1. Map
  
